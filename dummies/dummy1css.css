@@ -1,0 +1,44 @@
+/*.Selector{
+    Property: value;
+}*/
+
+body {
+    background-color: rgba(233, 233, 233, 0.507);
+}
+p {
+    color: blue;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext {
+    border: 5px dashed rgba(234, 175, 000, 0.5);
+    color: blueviolet;
+}
+
+h3 {
+    border: 5px dashed rgba(234, 000, 000, 0.5);
+    color: darkblue;
+} 
+
+h3 + p {
+    border: 5px dashed rgba(156, 216, 17, 0.5);
+     text-align: center;
+}
+
+.dripped {
+    border: 5px dashed rgba(95, 8, 117, 0.418);
+    color: navy;
+}
+
+#div1 {
+    background: rgba(178, 0, 0, 0.26);
+}
+
+#div2 {
+    background: rgba(0, 0, 178, 0.26);
+}
+

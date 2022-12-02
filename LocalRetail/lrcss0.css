@@ -1,0 +1,16 @@
+/* Selector{
+    Property: value;
+} */
+
+body {
+    background-color: blueviolet;
+    flood-color: darkred;
+}
+h1 {
+    color:yellow;
+   background-color: crimson; 
+    border: 5px round  cyan;
+}
+p {
+    color: teal;
+}

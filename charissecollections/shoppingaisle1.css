@@ -1,0 +1,34 @@
+h3 {
+        margin-top: 20px;
+        height: 30px;
+        padding: 10px;
+        background-color: blueviolet;
+       font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+    background-size: 200px;
+}
+
+.img-with-text img {
+    display: table;
+    flex-wrap: wrap;
+    justify-content: justify;
+    
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    transition: all 1s;
+}
+
+img:hover {
+transform: scale(1.1);
+ 
+}
+
+.img-with-text {
+    text-align: center;
+    width: 200px;
+}

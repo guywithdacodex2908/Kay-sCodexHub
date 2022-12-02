@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>RegistrationForm</title>
+            <link   rel="stylesheet" type="text/css" href="style3.css">
+        </head>
+                <h1><p align="center">LocalRetail.com</p></h1> 
+        <body bgcolor="yellow" text="red">
+            <p font="24" align="center">Welcome!!! Please fill in the following forms</p>
+            <form method="GET">
+                <p align="center">First Name: <br>
+                 <input type="text" name="firstname"></p><br>
+        <p align="center">Last Name: <br>
+            <input type="text" name="lastname"></p><br>
+    <p align="center">Email: <br>
+        <input type="email" required name="email"></p><br>
+        <p align="center">Username: <br>
+            <input type="text" name="username"></p><br>
+                 <p align="center">Phone Number:<br>
+                     <input type="number" required name="phonenumber"></p><br>
+                     <p align="center">Password: <br>
+                        <input type="password" name="password" min="6"></p><br> 
+        <p align="center">Product(Select the category of your product): </p><br> 
+    <select name="Product">
+<option value="foodandprovisions">Foods and Provisions</option>
+    <option value="mens'sfashion">Men's Fashion</option>
+        <option value="women'sfashion">Women's Fashion</option>
+<option value="health&beauty">Health & Beauty</option>
+    <option value="phones&tablets">Phones & Tablets</option>
+        <option value="gaming">Gaming</option>
+<option value="home&office">Home & Office</option>
+    <option value="computing">Computing</option>
+        <option value="babyproducts">Baby Products</option>
+<option value="sportinggoods">Sporting Goods</option>
+    <option value="elecronics">Electronics</option>
+        <option value="automobile">Automobile</option>
+    </select><br>
+    <p align="center">Gender: </p><br>
+                <input type="radio"  name="gender" value="Male">Male<br>
+                   <input type="radio"  name="gender" value="Female">Female<br>
+                   <p align="center">Payment Methods: </p><br>
+                           <input type="checkbox"> Cash on Delivery<br>
+                <input type="checkbox"> Paypal<br>
+                       <input type="checkbox"> Credit Card<br>:
+              </select><br>
+              <p align="center"><input type="submit" value="Register"> 
+                  <input type="submit" value="Reset">
+              </p>
+              </form>
+        </body>
+    </html>

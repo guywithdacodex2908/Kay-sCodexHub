@@ -1,0 +1,50 @@
+h3 {
+    margin-top: 20px;
+    height: 30px;
+    padding: 20px 0px 20px 0px ;
+    background-color: blueviolet;
+   font-family: 'Courier New', Courier, monospace;
+text-align: center;
+color: white;
+background-size: 200px;
+
+}
+
+body {
+    margin-left: 20px;
+  
+}
+
+.cartegories {
+ display: inline-flexbox;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+.hairsandwigs {
+    border: 2px solid blueviolet;
+height: 30px;
+    width: 200px;
+    color: white;
+}
+
+.hairaccessories {
+    border: 2px solid blueviolet;
+height: 30px;
+    width: 200px;
+    color: white;
+}
+
+.perfumeoils {
+    border: 2px solid blueviolet;
+height: 30px;
+    width: 200px;
+    color: white;
+}
+
+.wristwatches {
+    border: 2px solid blueviolet;
+height: 30px;
+    width: 200px;
+    color: white;
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+body{
+background-image: url(./bg.jpg);
+}
+
+h3 {
+    margin-top: 20px;
+    height: 50px;
+    padding: 10px;
+    background-color: blueviolet;
+   font-family: 'Courier New', Courier, monospace;
+text-align: center;
+color: white;
+background-size: 200px;
+}
+
+p1 {
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+}

@@ -1,0 +1,16 @@
+/*.Selector {
+    Property: value;
+}*/
+body {
+   background-color: turquoise;
+  color: blue;
+}
+h1 {
+    background-color:  red;
+    color: midnightblue;
+border: 10px 20px outset cyan;
+}
+p ten{
+    cursor: pointer;
+}  
+

@@ -1,0 +1,19 @@
+/* Selector{
+    Property: value;
+} */
+
+h2 {
+    color: blueviolet;
+    border: inset 4px hotpink;
+    text-align: center;
+}
+p {
+    color: maroon;
+    border: solid 6px rgba(99, 224, 15, 0.295);
+    text-transform: lowercase capitalize;
+    line-height: 20 px;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 100%;
+    font-family: 'Poiret One', cursive;
+}

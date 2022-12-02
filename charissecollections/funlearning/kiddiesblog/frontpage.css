@@ -1,0 +1,21 @@
+h3 {
+    box-shadow: 2px 2px 2px 2px gray;
+    width: 300px;
+    padding-left: 25px;
+    padding-right: 15px;
+    color: red;
+}
+
+p {
+    color: red;
+}
+
+body{
+padding-left: 20px;
+padding-top: 20px;
+}
+
+.buttons :hover{
+    cursor: auto;
+    color: red;
+}

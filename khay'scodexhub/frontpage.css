@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    margin: 70px;
+    background-color: gray;
+    text-size-adjust: auto;
+}
+
+h3 {
+    text-align: center;
+    color: yellow;
+    text-decoration-style: solid;
+
+}
+
+section {
+    width: 200px;
+    height: 400px;
+   
+}
+
+.links :hover{
+    color: red;
+    cursor: pointer;
+    text-decoration-color: white;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+.figure {
+    color: white;
+}
+
+
+
